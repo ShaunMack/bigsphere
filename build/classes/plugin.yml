@@ -1,0 +1,12 @@
+name: BigSphere
+
+author: ShaunMack
+
+main: com.javaminecraft.BigSphere
+
+commands:
+    bigsphere:
+        description: Make a big glass sphere around the player, with radius 5 - 200.
+        usage: /<command> radius
+
+version: 1.0
